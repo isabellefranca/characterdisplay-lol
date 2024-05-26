@@ -1,3 +1,3 @@
 # React + Vite
 
-Aplicação interativa para que o usuário conheça mais detalhes sobre personagens do jogo Lol ao passar o mouse neles. Feita com React e Tailwind CSS.
+Aplicação feita para que o usuário conheça mais detalhes sobre personagens do jogo Lol ao interagir com eles. Feita com React e Tailwind CSS.
